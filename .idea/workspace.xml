@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="001dade1-246e-4c15-a5b2-339634b967eb" name="Changes" comment="added method to calculate area and perimeter.">
+      <change afterPath="$PROJECT_DIR$/src/ConstructionPricer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/U2L2Runner2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/U2L2Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U2L2Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,12 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.U2L2Runner2">
     <configuration name="U2L2Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="U2L2Runner" />
       <module name="Rectangle" />
@@ -50,8 +56,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="U2L2Runner2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="U2L2Runner2" />
+      <module name="Rectangle" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.U2L2Runner2" />
         <item itemvalue="Application.U2L2Runner" />
       </list>
     </recent_temporary>
@@ -79,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664108830582</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added method to calculate area and perimeter.">
+      <created>1664143710519</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664143710519</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
