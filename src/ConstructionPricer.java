@@ -4,7 +4,7 @@ public class ConstructionPricer
     private double windowPrice; // price per square inch of window
     private double taxRate;     // tax rate, e.g 25% = 0.25
 
-    public ConstructionPricer(double boardPrice, double windowPrice)
+    public ConstructionPricer(double boardPrice, double windowPrice, double taxRate)
     {
         this.boardPrice = boardPrice;
         this.windowPrice = windowPrice;
